@@ -291,7 +291,7 @@ const Upload = () => {
                 borderRadius: "4px",
               }}
             >
-              Submit
+              Download
             </button>
           )}
         </div>
